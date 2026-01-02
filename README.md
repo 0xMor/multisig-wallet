@@ -19,3 +19,4 @@ Owners can submit a transaction, confirm it on-chain, and execute it once the re
 ```bash
 npm install
 npx hardhat test
+<!-- CI trigger -->
