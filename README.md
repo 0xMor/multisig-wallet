@@ -1,3 +1,5 @@
+![CI](../../actions/workflows/ci.yml/badge.svg)
+
 # MultiSig Wallet (2-of-3)
 
 A minimal Ethereum multisignature wallet implemented in Solidity.
